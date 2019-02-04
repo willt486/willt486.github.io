@@ -27,5 +27,5 @@ I currently work as an Associate Professor in the [Suffolk Business School](www.
   - Delivering change required to align School strategy to that of the institution, monitoring and reporting progress.
   - Representing the School and the University at wide range of events, committees and panels, maintaining effective relationships with local and regional agencies including for purposes of curriculum and new business development. 
  - Senior Research Associate
-  - Responsibility for delivery of contract research projects and for supporting the development of research activity.
+   - Responsibility for delivery of contract research projects and for supporting the development of research activity.
 
