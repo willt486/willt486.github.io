@@ -6,6 +6,8 @@ subtitle: Background and Professional Experience
 
 I currently work as an Associate Professor in the [Suffolk Business School](www.uos.ac.uk/business). I have created these pages to share work in progress, research projects and ideas, and resources that I have created and used.
 
+Please visit [Publications] for details of published work and conference presentations.
+
 ## Professional Experience
 
 ### 2013 to present - Suffolk Business School
