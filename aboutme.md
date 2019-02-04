@@ -10,8 +10,8 @@ I currently work as an Associate Professor in the [Suffolk Business School](www.
 
 ### 2013 to present - Suffolk Business School
 - Programme Lead, BA (Hons) Business Management
-- Creating programme strategy, managing delivery, assessment and marketing.
-- Stakeholder relations and development, engaging with the local business community, ensuring coordination between programme content and local skills needs.
+  - Creating programme strategy, managing delivery, assessment and marketing.
+  - Stakeholder relations and development, engaging with the local business community, ensuring coordination between programme content and local skills needs.
  - Programme development, quality monitoring and assurance, ensuring compliance with legislation and legal agreements, including the UK’s Quality Assurance Agency.
  - Promoting and enhancing learning and teaching.
  - Significant lecturing and supervision experience (undergraduate and both taught and research postgraduate degrees
