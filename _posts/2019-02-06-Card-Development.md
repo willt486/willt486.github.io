@@ -3,7 +3,7 @@ layout: post
 title: Development of cards for "Persuasion"
 ---
 
-Having tried the basic game out a few times now the next move seems to be to develop some new cards. There are two reasons for this. Firstly, existing cards look somewhat "rough" - or to be less polite, they were amateurish. Secondly, the existing cards are not really robust enough to permit lots of playtesting; this is going to be critical in developing the game further.
+Having tried the basic game out a few times now the next move seemed to be to develop some new cards. There were two main reasons for wanting to do this. Firstly, existing cards look somewhat "rough" - or to be less polite, they were amateurish. Secondly, the existing cards are not really robust enough to permit lots of playtesting; this is going to be critical in developing the game further.
 
 The geeky side of my personality means I spent quite a bit of time looking for a tool to help with the process. In the end, I settled for "Squib" a tool which runs on Ruby that offers the benefit of separating out content and design.
 
