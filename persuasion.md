@@ -16,5 +16,5 @@ Over time, my plans are to develop the core mechanisms and the playing materials
 
 ### Updates
 
-[Version 2 of the Cards](https://willt486.github.io/2019-02-06-Card-Development/)
+[Version 2 of the Cards](https://willt486.github.io/2019-02-06-card-development/)
 
