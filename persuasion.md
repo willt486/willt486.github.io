@@ -13,3 +13,8 @@ The game is playable in several 'levels' that increase the complexity and which 
 The second level introduces employees to the game and the students then explore the impact of colleagues that are more, or less, engaged (and therefore easier or harder to influence).
 
 Over time, my plans are to develop the core mechanisms and the playing materials and to produce resources to support those running the game with students (research shows that the reflection and discussion components of 'serious games' are critical to ensuring meaningful learning is taking place - and students don't just have fun!)
+
+### Updates
+
+[Version 2 of the Cards](2019-06-02-Card-Development.md)
+
