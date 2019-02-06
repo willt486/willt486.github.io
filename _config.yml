@@ -160,6 +160,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
+include: ['_pages']
 
 kramdown:
   input: GFM
