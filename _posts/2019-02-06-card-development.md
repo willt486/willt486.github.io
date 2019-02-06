@@ -11,4 +11,4 @@ Content is handled using a csv file - I chose to write this using a text editor 
 
 The aim is to revise the game so that it is in a state whereby I am sufficiently confident that the game is useful in classes and other sessions, offering learning opportunities from year 12 through to undergraduate levels. In time, it might be possible to create resources to support earlier age groups using the game.
 
-![Showcase of v2 cards](img/showcase.png | width: 300)
+![Showcase of v2 cards](/img/showcase.png)
