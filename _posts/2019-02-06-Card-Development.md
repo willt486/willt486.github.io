@@ -10,3 +10,5 @@ The geeky side of my personality means I spent quite a bit of time looking for a
 Content is handled using a csv file - I chose to write this using a text editor but I guess a spreadsheet programme would work equally well. Design of the cards uses Ruby - which is why I was able to spend a happy Saturday morning playing about with learning something new. The result was a very workable second version of the cards that will enable further playtesting and looks slightly better. Having set up the cards, I am able to revise and amend them easily using the csv file for the content or the Ruby files for design elements.
 
 The aim is to revise the game so that it is in a state whereby I am sufficiently confident that the game is useful in classes and other sessions, offering learning opportunities from year 12 through to undergraduate levels. In time, it might be possible to create resources to support earlier age groups using the game.
+
+![Showcase of v2 cards](https://willt486.github.io/img/showcase.png | width: 300)
