@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My personal website
+title: Dr Will Thomas
 
 # Short description of your site
 description: Work in progress, research and resources
@@ -162,7 +162,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-include: ['_pages']
 
 kramdown:
   input: GFM
