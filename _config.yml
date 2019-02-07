@@ -24,9 +24,10 @@ description: Work in progress, research and resources
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Projects: "pages/projects"
   Resources:
-    - Publications: "publications"
-    - Persuasion - the management game: "persuasion"
+    - Publications: "pages/publications"
+    - Persuasion - the management game: "pages/persuasion"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Test: "pages/test"
 
