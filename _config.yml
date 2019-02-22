@@ -31,6 +31,9 @@ navbar-links:
     - Publications: "pages/publications"
     - Persuasion - the management game: "pages/persuasion"
     - Learn markdown: "http://www.markdowntutorial.com/"
+  Test:
+    - Test
+    - Another test
 
 
 # Image to show in the navigation bar - image must be a square (width = height)
