@@ -24,7 +24,8 @@ description: Work in progress, research and resources
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "pages/projects"
+  Projects: 
+    - Current Work: "pages/projects"
     - Critical Management Studies 2019: "pages/cms2019"
   Resources:
     - Publications: "pages/publications"
