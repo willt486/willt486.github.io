@@ -25,6 +25,7 @@ description: Work in progress, research and resources
 navbar-links:
   About Me: "aboutme"
   Projects: "pages/projects"
+    - Critical Management Studies 2019: "pages/cms2019"
   Resources:
     - Publications: "pages/publications"
     - Persuasion - the management game: "pages/persuasion"
