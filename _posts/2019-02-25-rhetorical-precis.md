@@ -10,7 +10,7 @@ It was [this post](http://www.raulpacheco.org/2016/10/using-the-rhetorical-preci
 
 I really like the way that it forces me to think about the core argument that is being presented in an article (or chapter...) and to distill this into a single sentence. I adapted the approach slightly - coming up with a 3 sentence structure that worked (and, I think, still works) for me. Usually, I also pair this with verbatim quotes taken from the work, and my own notes and reflections.
 
-1. Name of the author, nature and type of work (date); rhetorically active ver; and a THAT clause containing the major assertion of the work.
+1. Name of the author, nature and type of work (date); rhetorically active verb; and a THAT clause containing the major assertion of the work.
 1. An explanation of how the author develops and supports the thesis.
 1. A statement of the author's apparent purpose, followed by an IN ORDER TO clause.
 
