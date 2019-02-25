@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: 
     - Current Work: "pages/projects"
+    - Management of Wicked Problems Book: "pages/mgmtwickedproblems"
     - Critical Management Studies 2019: "pages/cms2019"
   Resources:
     - Publications: "pages/publications"
