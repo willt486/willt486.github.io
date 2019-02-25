@@ -8,3 +8,4 @@ This book is the result of work that I shared with colleagues from the [Universi
 
 ![Book Cover](/img/book cover small.jpg)
 
+"At a time of growing pressure of health and social care services, this book draws together contributions which highlight contemporary challenges for their management. Providing a range of contributions that draw on  a Critical Management Studies perspective, the book raises macro-level concerns with theory, demographics and economics on the one hand, as well as micro-level challenges of leadership, voice and engagement on the other. Rather than being an attempt to define the 'wickedness' of problems in this field, this book provides new insights designed to be of interest and value to researchers, students and managers."
