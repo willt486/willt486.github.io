@@ -6,7 +6,7 @@ subtitle: Background and Professional Experience
 
 I currently work as an Associate Professor in the [Suffolk Business School](www.uos.ac.uk/business). I have created these pages to share work in progress, research projects and ideas, and resources that I have created and used.
 
-Please visit [Publications](/pages/publications) for details of published work and conference presentations.
+Please visit [Publications](/pages/publications) for details of published work and conference presentations. You can find more details of my recent book [The Management of Wicked Problems in Health and Social Care](/pages/mgmtwickedproblems).
 
 ## Professional Experience
 
