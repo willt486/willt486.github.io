@@ -32,7 +32,7 @@ navbar-links:
     - Publications: "pages/publications"
     - Persuasion - the management game: "pages/persuasion"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Categories: "categories.html"
+  Categories: "categories"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
