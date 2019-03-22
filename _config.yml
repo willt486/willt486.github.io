@@ -31,6 +31,7 @@ navbar-links:
   Resources:
     - Publications: "pages/publications"
     - Persuasion - the management game: "pages/persuasion"
+    - Writing: "pages/writing"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Categories: "categories"
 
