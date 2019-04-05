@@ -9,7 +9,9 @@ I will use this page to gather some of the posts (forthcoming) on approaches I u
 Over time, I plan to create pages that look at:
 
 ### Gathering and organising materials, reading and references
+[Productive Reading](https://willt486.github.io/research/productivity/writing/2019/02/22/productive-reading/)
 
 ### Outlining and planning work
+[Outlining: Getting the Structure Right](https://willt486.github.io/research/productivity/writing/2019/04/05/starting-to-write/)
 
 ### The process of writing and editing
