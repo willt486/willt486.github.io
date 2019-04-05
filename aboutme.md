@@ -8,7 +8,7 @@ I currently work as an Associate Professor in the [Suffolk Business School](www.
 
 Please visit [Publications](/pages/publications) for details of published work and conference presentations. You can find more details of my recent book [The Management of Wicked Problems in Health and Social Care](/pages/mgmtwickedproblems).
 
-Download [my CV](img/Will Thomas Professional CV (1).pdf) here
+Download [my CV](img/Will Thomas Professional CV.pdf) here
 
 ## Professional Experience
 
