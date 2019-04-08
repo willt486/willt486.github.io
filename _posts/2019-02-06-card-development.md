@@ -14,4 +14,4 @@ The aim is to revise the game so that it is in a state whereby I am sufficiently
 
 Here's a preview of how the v2 cards look:
 
-![Showcase of v2 cards](/img/showcase.png)<!-- .element height="50%" width="50%" -->
+![Showcase of v2 cards](/img/showcase.png){:height="50%" width="50%"}
