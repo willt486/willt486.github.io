@@ -2,6 +2,7 @@
 layout: post
 title: In Search of Productive Reading
 categories: [research,productivity,writing]
+comments: true
 ---
 
 I spend some time (ok, much more than I should) thinking about how to work more productively - primarily, with research and writing because I feel like I don't get as much time to do these as I really want. As a consequence, I'm a fan of colleagues such as [Raul Pacheco-Vega](http://www.raulpacheco.org/), [Mark S. Reed](https://www.profmarkreed.com/) and [Pat Thomson](https://patthomson.net/) who publish very sound and helpful advice on their websites, social media and in their publications.
