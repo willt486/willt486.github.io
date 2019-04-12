@@ -2,6 +2,7 @@
 layout: post
 title: Ways to Use TiddlyWiki
 categories: [research,productivity]
+comments: true
 ---
 
 Although I'm not currently using either site actively, I thought it might be interesting to share two separate ways in which I've used [TiddlyWiki](https://tiddlywiki.com/) in research and writing.
