@@ -2,6 +2,7 @@
 layout: post
 title: Starting to Write
 categories: [research,productivity,writing]
+comments: true
 ---
 
 In [this post](https://willt486.github.io/research/productivity/writing/2019/02/22/productive-reading/) I talked about how I'd used a new method to successfully increase the speed at which I was able to cover literature for a new project that I'm working on. In this post, I wanted to outline how I've used [WorkFlowy](http://workflowy.com/) to start the process of 'putting pen to paper'.
