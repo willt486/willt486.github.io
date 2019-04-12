@@ -2,6 +2,7 @@
 layout: post
 title: Rhetorical Precis
 categories: [writing,research]
+comments: true
 ---
 
 In my [last post](2019-02-22-productive-reading) I talked about a really successful day in which I chose not to use the method of engaging with reading that has become my 'go to' - namely, the *Rhetorical Precis*.
