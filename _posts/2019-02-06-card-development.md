@@ -2,6 +2,7 @@
 layout: post
 title: Development of cards for "Persuasion"
 categories: [persuasion,games]
+comments: true
 ---
 
 Having tried the basic game out a few times now the next move seemed to be to develop some new cards. There were two main reasons for wanting to do this. Firstly, existing cards look somewhat "rough" - or to be less polite, they were amateurish. Secondly, the existing cards are not really robust enough to permit lots of playtesting; this is going to be critical in developing the game further.
