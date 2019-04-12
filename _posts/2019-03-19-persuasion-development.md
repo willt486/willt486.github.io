@@ -2,6 +2,7 @@
 layout: post
 title: Thoughts on Developing "Persuasion"
 categories: [persuasion,games]
+comments: true
 ---
 
 I've now run the 2 hour "Persuasion" session twice for sixth form students from two different schools. I'm pleased to say that the mechanics of the game appear to work really well and we've had some wonderfully productive discussions in both sessions. All this starts to beg the question 'what next?'
