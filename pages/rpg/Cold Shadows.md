@@ -4,6 +4,30 @@ title: Cold Shadows
 subtite: First playthrough
 ---
 
+This page contains the records of my first playthrough of Cold Shadows an RPG written by Alan Bahr, Ben Woerner, Elizabeth Chaipraditkul, Tobie Abad and Drew Wendell and published by Gallant Knight Games. It's also my first solo-RPG and my first RPG of any sort for more than 20 years.
+
+I also want to record some of my initial thoughts - things I liked and didn't like about both the experience and the system (but, of course I've only played it once, and I have *no* experience).
+
+Thoughts...
+
+In the segments, block quotes are used to indicate dice rolls. In the end I drew upon several systems to help, but (other than the CS rules themselves) the main ones I used were...
+
+A basic Oracle, that I took from the [Tabletop Diversions](http://tabletopdiversions.blogspot.com/) website. Roll a d6 and then:
+
+1 - No, and
+
+2 or 3 - No, but
+
+4 or 5 - Yes, but
+
+6 - Yes, and
+
+I used that *a lot* and found it to work really well. I particularly liked the advice to avoid straight Yes/No answers. I did use straightforward 50/50 rolls too though.
+
+I used the [Urban Encounter Tables](http://aleaiactandaest.blogspot.com/2020/04/urban-encounter-tables-for-bfjb.html) no doubt misusing them terribly. For me, they were useful in adding some flavour - I only came to them late, so used them for about half the mission.
+
+I also used the [GM's Apprentice](http://jamesturneronline.net/game-masters-apprentice/) created by James Turner. Honestly, whilst the inspiration from this was sometimes good, it didn't feel as useful to me. Perhaps it is partly because the setting (i.e. not fantasy) is not well-suited. 
+
 [Segment 1](New Kid on the Block.md)
 
 [Segment 2](New Kid on the Block 2.md)
