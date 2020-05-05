@@ -6,7 +6,7 @@ subtite: First playthrough
 
 This page contains the records of my first playthrough of Cold Shadows an RPG written by Alan Bahr, Ben Woerner, Elizabeth Chaipraditkul, Tobie Abad and Drew Wendell and published by Gallant Knight Games. It's also my first solo-RPG and my first RPG of any sort for more than 20 years.
 
-I also want to record some of my initial thoughts - things I liked and didn't like about both the experience and the system (but, of course I've only played it once, and I have *no* experience).
+I also want to record some of my [initial thoughts](csinitialthoughts.md) - things I liked and didn't like about both the experience and the system (but, of course I've only played it once, and I have *no* experience).
 
 ## How I played
 
