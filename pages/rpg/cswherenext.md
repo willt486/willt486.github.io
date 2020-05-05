@@ -26,3 +26,5 @@ At the moment, I'm not really that interested in fighting, but I will keep the b
 The roles will need adapting slightly, but I will drop the spyware (it can come back if necessary at a later stage). Some of the other complications from Cold Shadows may be used, but we'll see.
 
 I do want to something about the way that **time** is handled. I like the system from Chronicles of Crime, where moving between locations costs time and investigative actions cost time, so I will use something like that. Given that my first try at this will be set in a city I will use Google maps to determine time to move between locations assuming walking or driving as appropriate. Conversations will be a minimum of 15 mins, and will increase in 15 min blocks. I'm not quite sure how to record it at the moment...
+
+Yes, I do ***really*** like Chronicles of Crime, and I think that I'm probably looking for an rpg version of that!
