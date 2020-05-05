@@ -45,3 +45,5 @@ For the most part, I rolled when I felt there was a need to make a decision - or
 [Segment 7](New Kid on the Block 7.md)
 
 The story could continue, picking up more or less where this one ends, giving the main character a new mission. Having some established NPCs is also an advantage from the point of view of building a world which makes sense and which can carry a story forwards.
+
+Actually, this is what I'm planning [next](cswherenext.md) 
