@@ -8,7 +8,7 @@ This page contains the records of my first playthrough of Cold Shadows an RPG wr
 
 I also want to record some of my initial thoughts - things I liked and didn't like about both the experience and the system (but, of course I've only played it once, and I have *no* experience).
 
-Thoughts...
+## How I played
 
 In the segments, block quotes are used to indicate dice rolls. In the end I drew upon several systems to help, but (other than the CS rules themselves) the main ones I used were...
 
@@ -28,6 +28,8 @@ I used the [Urban Encounter Tables](http://aleaiactandaest.blogspot.com/2020/04/
 
 I also used the [GM's Apprentice](http://jamesturneronline.net/game-masters-apprentice/) created by James Turner. Honestly, whilst the inspiration from this was sometimes good, it didn't feel as useful to me. Perhaps it is partly because the setting (i.e. not fantasy) is not well-suited. 
 
+For the most part, I rolled when I felt there was a need to make a decision - or where I *wanted* to do something, but I was conscious that it might not work out. Some segments certainly worked better than others, the story moved on, the rolls made sense and so on. Generally, more rolls seemed to be better.
+
 [Segment 1](New Kid on the Block.md)
 
 [Segment 2](New Kid on the Block 2.md)
@@ -41,3 +43,5 @@ I also used the [GM's Apprentice](http://jamesturneronline.net/game-masters-appr
 [Segment 6](New Kid on the Block 6.md)
 
 [Segment 7](New Kid on the Block 7.md)
+
+The story could continue, picking up more or less where this one ends, giving the main character a new mission. Having some established NPCs is also an advantage from the point of view of building a world which makes sense and which can carry a story forwards.
