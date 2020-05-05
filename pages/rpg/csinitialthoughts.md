@@ -28,3 +28,4 @@ Being able to move the plot on and to pace the story over a reasonable number of
 
 The other 'inexperience factor' is writing up the story. Truthfully, I had expected to be better at this (and at handling the plot issues) given how much fiction I read, particularly of a thriller/crime/espionage nature. I assume this will become a little easier in time and that I will develop a style that works. Simple things like keeping any control of tense (am I writing in the present, or in a narrative tense?) and deciding how much dialoge to include (this is difficult because it is both critical and outside the direct control of the dice) threw me...practice makes perfect.
 
+So, this is what I'm thinking about [where next](cswherenext.md)
