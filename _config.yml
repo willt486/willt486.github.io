@@ -33,6 +33,9 @@ navbar-links:
     - Persuasion - the management game: "pages/persuasion"
     - Writing: "pages/writing"
     - Learn markdown: "http://www.markdowntutorial.com/"
+  Gaming:
+    - Persuasion - a game of management and motivation: "pages/persuasion"
+    - Role-Playing Games: "pages/rpg/coldshadows"
   Categories: "categories"
 
 # Image to show in the navigation bar - image must be a square (width = height)
